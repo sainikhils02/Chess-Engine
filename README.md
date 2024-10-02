@@ -11,7 +11,7 @@ This is a Python implementation of the classic game of Chess. It allows two play
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/chess-game.git`
+1. Clone the repository: `git clone https://github.com/sainikhils02/chess-game.git`
 2. Navigate to the project directory: `cd chess-game`
 3. Run the game: `python chessMain.py`
 
